@@ -5,4 +5,3 @@ HEAD
 test2
 1.
  a10c6e1 (ändrat i readme)
- clonar från GUI vs.
